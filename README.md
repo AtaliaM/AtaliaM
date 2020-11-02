@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello to all of you visitors! 👋
+I'm Atalia, and I'm a junior full-stack web developer. 
+
+
 
 <!--
 **AtaliaM/AtaliaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
