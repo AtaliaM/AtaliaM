@@ -1,5 +1,12 @@
 Hello to all of you visitors! 👋
-I'm Atalia, and I'm a junior full-stack web developer. 
+I'm Atalia, and I'm a junior full-stack web developer.
+
+I'm a self learner, curious and enthusiastic about web development💻 (and puzzles.🧩 and art.🖼 and animals.🐱 and games.🎲).
+
+__Contact me:__
+<br>
+<a href="https://www.linkedin.com/in/atalia-mucharsky-a811151b1/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/600px-Linkedin.svg.png" width="25" style="margin:10px;" alt="accessibility text"></a>
+
 
 
 
