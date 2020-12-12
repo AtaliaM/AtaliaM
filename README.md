@@ -1,7 +1,9 @@
 Hello to all of you visitors! 👋
 I'm Atalia, and I'm a junior full-stack web developer.
 
-I'm a self learner, curious and enthusiastic about web development💻 (and puzzles.🧩 and art.🖼 and animals.🐱 and games.🎲).
+I'm a self learner, curious and enthusiastic about web development💻. 
+
+On my free time I love to assemble puzzles🧩, paint/draw🖼, play boardgames🎲 and hangout with my pets🐱.
 
 __Contact me:__
 <br>
